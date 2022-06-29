@@ -1,0 +1,3 @@
+Game started at: Mon May 10 15:13:04 2021
+Points earned: 8
+Game ended at: Mon May 10 15:13:40 2021

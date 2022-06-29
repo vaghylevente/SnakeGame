@@ -1,0 +1,3 @@
+D:/Tananyag/ProgGyak1/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.dir
+D:/Tananyag/ProgGyak1/SnakeGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Tananyag/ProgGyak1/SnakeGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
